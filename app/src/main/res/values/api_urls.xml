@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--10.0.2.2-->
+    <!--192.168.43.6-->
+    <!--192.168.1.8-->
+    <string name="url_update_availability">https://sdc-trip-car-management.herokuapp.com/car/update/availability/</string>
+    <string name="url_update_location">https://sdc-trip-car-management.herokuapp.com/car/update/location/</string>
+    <string name="url_start">https://sdc-trip-car-management.herokuapp.com/car/trip/start/tablet/</string>
+    <string name="url_end">https://sdc-trip-car-management.herokuapp.com/car/trip/end/tablet/</string>
+    <string name="url_cancel">https://sdc-trip-car-management.herokuapp.com/car/trip/cancel/tablet/</string>
+    <string name="url_available">https://sdc-trip-car-management.herokuapp.com/car/find/all/available</string>
+    <string name="url_destination">https://sdc-trip-car-management.herokuapp.com/car/trip/arrive/destination/</string>
+    <string name="url_final">https://sdc-trip-car-management.herokuapp.com/car/trip/arrive/final/</string>
+    <string name="url_continue">https://sdc-trip-car-management.herokuapp.com/car/trip/continue/tablet/</string>
+    <string name="url_pickup">https://sdc-trip-car-management.herokuapp.com/car/trip/arrive/pickup/</string>
+</resources>
